@@ -1,0 +1,23 @@
+# Compiled C++ executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Competitive Programming Helper
+*.cph
+.cph/
+
+# VS Code settings
+.vscode/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
